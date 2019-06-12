@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,6 +69,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
+=======
+>>>>>>> 177fe1fb9fed9bbfa3b5a1894350ff42ccfc96fa
 # ReactJS-Frontend
 Instagram Clone Application, just for study purpouse
 
@@ -148,4 +151,7 @@ Export the Routes Function
 ```
 export default Routes;
 ```
+<<<<<<< HEAD
+>>>>>>> 177fe1fb9fed9bbfa3b5a1894350ff42ccfc96fa
+=======
 >>>>>>> 177fe1fb9fed9bbfa3b5a1894350ff42ccfc96fa
